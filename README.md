@@ -1,1 +1,1 @@
-![alt text]([https://drive.google.com/file/d/1hirOeBeh9aHKPdvEJuAc2Ca7MFQjFzWj/view?usp=drive_link](https://github.com/Avadhut2003/Landslide-Prediction/blob/main/Images/Screenshot%20(68).png?raw=true))
+![alt text](https://github.com/Avadhut2003/Landslide-Prediction/blob/main/Images/Screenshot%20(68).png?raw=true)
